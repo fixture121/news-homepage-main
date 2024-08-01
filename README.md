@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/b1bdbd1c-cb4f-42ce-8edf-9fd3b1cb1d23)
+
+
 # Frontend Mentor - News homepage
 
 ![Design preview for the News homepage coding challenge](./design/desktop-preview.jpg)
